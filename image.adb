@@ -1,9 +1,3 @@
--- Author: Valeria Telles
--- Course: CIS3190 - Software for Legacy Systems
--- Date: 7 March 2022
--- Assignment 2: Ada Programming 
--- Program: perform some image processing operations on a grayscale image stores in an ASCII P2 PGM format
-
 with ada.Text_IO; use Ada.Text_IO;
 with ada.strings.unbounded; use ada.strings.unbounded;
 with ada.strings.unbounded.Text_IO; use ada.strings.unbounded.Text_IO;
